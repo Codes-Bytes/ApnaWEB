@@ -39,10 +39,10 @@ function initTypedText() {
       "A Software Solutions Firm,",
       "From Hyderabad, India.",
     ],
-    typeSpeed: 80,
-    backSpeed: 60,
+    typeSpeed: 70,
+    backSpeed: 50,
     backDelay: 1000,
-    startDelay: 400,
+    startDelay: 500,
     loop: true,
   };
   const typed = new Typed("#typed-text", options);
